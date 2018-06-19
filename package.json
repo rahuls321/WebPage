@@ -1,0 +1,22 @@
+{
+  "name": "kumar_rahul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahuls321/kumar_rahul.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahuls321/kumar_rahul/issues"
+  },
+  "homepage": "https://github.com/rahuls321/kumar_rahul#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
